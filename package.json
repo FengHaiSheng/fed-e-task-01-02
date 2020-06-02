@@ -1,0 +1,14 @@
+{
+  "name": "fed-e-task-01-02",
+  "version": "1.0.0",
+  "description": "### 1. 描述引用技术的工作原理和优缺点。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
